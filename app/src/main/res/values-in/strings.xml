@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">apkfin3.rev</string>
+    <string name="title_home">Film</string>
+    <string name="title_notifications">Serial TV</string>
+    <string name="title">Judul :</string>
+    <string name="airing">Tayang :</string>
+    <string name="sinopsis">RINGKASAN</string>
+    <string name="settings">Pengaturan</string>
+
+
+    <string name="eror">Cek Koneksi Kamu Ya</string>
+
+
+
+</resources>

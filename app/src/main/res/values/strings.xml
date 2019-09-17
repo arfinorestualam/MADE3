@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">apkfin3.rev</string>
+    <string name="title_home">Movies</string>
+    <string name="title_notifications">TV Shows</string>
+    <string name="title">Title :</string>
+    <string name="airing">Airing :</string>
+    <string name="sinopsis">SUMMARY</string>
+    <string name="settings">Settings</string>
+
+
+    <string name="eror">Please Check Your Connection</string>
+</resources>
