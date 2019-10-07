@@ -6,3 +6,8 @@ Untuk mendapatkan API key, silahkan mengikuti link berikut : https://blog.dicodi
 
 
 Sedang untuk BASE_URL isi dengan : https://api.themoviedb.org/3/.
+
+
+
+
+This app belong to : https://www.dicoding.com/users/416329
